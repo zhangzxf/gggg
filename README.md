@@ -19,4 +19,28 @@
 
 [笔记](./notes/vueday03.md "第三天笔记")
 
-[代码](./vueday03 "第三天代码")
+[代码](./vueday02 "第三天代码")
+
+## vue-day04
+
+[笔记](./notes/vueday04.md "第四天笔记")
+
+[代码](./vueday03 "第四天代码")
+
+## vue-day05
+
+[笔记](./notes/vueday05.md "第五天笔记")
+
+[代码](./vueday04 "第五天代码")
+
+## vue-day06
+
+[笔记](./notes/vueday06.md "第六天笔记")
+
+[代码](./vueday05 "第六天代码")
+
+## vue-day07
+
+[笔记](./notes/vueday07.md "第七天笔记")
+
+[代码](./vueday05/webpack-demo "第七天代码")
